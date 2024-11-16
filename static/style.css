@@ -1,0 +1,34 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #DFF2EB;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #B9E5E8; 
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(175, 172, 140, 0.964);
+    text-align: center;
+    backdrop-filter: blur(50px); 
+    -webkit-backdrop-filter: blur(10px); 
+}
+
+
+h1 {
+    color: #4A628A;
+    font-size: 36px;
+}
+
+.attack-status {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+
