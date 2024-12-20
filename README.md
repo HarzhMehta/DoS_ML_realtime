@@ -6,3 +6,5 @@
 
 >Despite this, the model performs well in offline evaluations.
 checkout the .txt file for testing the project
+
+>Google Collab file for model code: https://colab.research.google.com/drive/1cO5HysImC5fWd59ct2-pOhNWkOdNlb7V?usp=sharing
